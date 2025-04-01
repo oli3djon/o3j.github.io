@@ -1,1 +1,4 @@
-# o3j.github.io
+https://get.activated.win
+=================
+
+This repository contains `irm https://get.activated.win | iex` loader script.
